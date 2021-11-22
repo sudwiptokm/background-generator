@@ -1,3 +1,5 @@
+var _ = require("lodash")
+
 var i1 = document.querySelector("#color1")
 var i2 = document.querySelector("#color2")
 var op = document.querySelector("h3")
